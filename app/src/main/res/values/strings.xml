@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Graphic Note</string>
+    <string name="app_name" translatable="false">Graphic Note</string>
+    <string name="dialog_connect_title" translatable="false">Connect</string>
+    <string name="dialog_connect_message" translatable="false">Enter pc address in format x.x.x.x</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="errors_socket">Server not responding</string>
 </resources>
